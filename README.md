@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I'm Rob!
 
 <!--
 **colemanrob/colemanrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here's some stuff about me:
+
+- 🌱 I'm always learning how to solve problems using [r, the programming language](https://www.r-project.org/) for data science
+- 🤔 I think and read about [active labour market policy](https://en.wikipedia.org/wiki/Active_labour_market_policies)
+- 🔭 I lead analytics for [ONTatwork](https://twitter.com/ONTatwork)
+- 📫 Reach out, let's chat!  I'm [@coleman](https://twitter.com/coleman)
